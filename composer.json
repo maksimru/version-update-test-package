@@ -1,0 +1,7 @@
+{
+    "name": "maksimru/version-update-test-package",
+    "description": "Version update test",
+    "keywords": ["test", "version", "update"],
+    "license": "MIT",
+    "type": "project"
+}
